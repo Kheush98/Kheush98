@@ -1,4 +1,4 @@
-#👋 Hi there, I'm Cheikh Gaye!
+# 👋 Hi there, I'm Cheikh Gaye!
 
 🎓 I'm a final-year Software Engineering student from **Dakar, Senegal**.  
 💻 I'm passionate about **programming**, **DevOps**, and building efficient, scalable software systems.
