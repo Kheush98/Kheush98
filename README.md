@@ -42,13 +42,6 @@ I explore new technologies, programming languages, and concepts to improve my kn
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Kheush98&show_icons=true&theme=dark)
 
---- 
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/cheikh-gaye-bba148282/)
-- 📧 Email: cheikhgaye1@esp.sn
-
 ---
 
 *Thanks for visiting my profile! I'm always open to collaboration, new challenges, and opportunities to grow.*
