@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Cheikh Gaye!
 
-🎓 I'm a final-year Software Engineering student from **Dakar, Senegal**.  
+🎓 I'm a Junior Software Engineer from **Dakar, Senegal**.  
 💻 I'm passionate about **programming**, **DevOps**, and building efficient, scalable software systems.
 
 I love exploring new technologies, solving complex problems, and turning ideas into impactful solutions. I'm also deeply interested in cloud computing, system design, and automation.
